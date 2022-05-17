@@ -1,0 +1,157 @@
+body {
+    background-color: #1C658C;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-family: 'Red Hat Mono', monospace;
+    text-align: center;
+    font-size: 2rem;
+}
+
+h2 {
+    font-family: 'Radio Canada', sans-serif;
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 3rem;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Almarai', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+
+/* Nav bar */
+
+.navbar {
+    background-color: #1C658C;
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 8px;
+}
+
+.nav-link {
+    font-family: 'Almarai', sans-serif;
+    font-size: 1.5rem;
+}
+
+
+/* Container holding the text */
+
+.centered {
+    font-family: 'Almarai', sans-serif;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container-fluid {
+    padding: 3% 10% 8%;
+}
+
+
+/* second section */
+
+.features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 6%;
+}
+
+.dis {
+    color: #8f8f8f;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1.5rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+
+/* third section */
+
+.services {
+    padding: 7% 15%;
+    background-color: #1C658C;
+    position: relative;
+}
+
+.services-box {
+    text-align: center;
+    padding: 6%;
+}
+
+.disse {
+    color: #ffffff;
+}
+
+.icon-se {
+    color: #ff4c68;
+    margin-bottom: 1.5rem;
+}
+
+.icon-se:hover {
+    color: #630000;
+}
+
+.containerservices {
+    padding-top: 7%;
+}
+
+
+/* fourth section */
+
+.career {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+.career-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.disse {
+    color: #ffffff;
+}
+
+.icon-se {
+    color: #ff4c68;
+    margin-bottom: 1.5rem;
+}
+
+.icon-se:hover {
+    color: #630000;
+}
+
+.containercareer {
+    padding-top: 7%;
+    background-color: #fff;
+}
